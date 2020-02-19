@@ -6,7 +6,7 @@ print("hiii there !!!!!!!!!")
 #num1 = input('Enter first number: ')
 #num2 = input('Enter second number: ')
 num1=10
-num2=10
+num2=90
  
 # Add two numbers
 sum = float(num1) + float(num2)
